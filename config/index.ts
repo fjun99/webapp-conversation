@@ -5,7 +5,7 @@ export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: '费曼测试',
   description: '',
-  copyright: 'YouthMBA',
+  copyright: '@费曼星球',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
